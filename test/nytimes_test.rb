@@ -36,5 +36,4 @@ class NytimesTest < Minitest::Test
     assert_equal "Conspiracy Theories Made Alex Jones Very Rich. They May Bring Him Down.",
       result.last[:title]
   end
-
 end
